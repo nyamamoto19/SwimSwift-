@@ -1,4 +1,4 @@
-# SwimSwift-
+# SwimSwift- Section 4
 Download the folder
 It will download as a Zip file in your downloads folder.
 Extract all the files from the zipfile 
