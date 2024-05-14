@@ -1,5 +1,5 @@
 # SwimSwift-
-Download the folder “SwimSwift! Windows-64Bit” from the Google Drive
+Download the folder
 It will download as a Zip file in your downloads folder.
 Extract all the files from the zipfile 
 Run the file SwimSwift.exe
